@@ -1,6 +1,6 @@
 [![PyPi Version](https://img.shields.io/pypi/v/mmdnn.svg)](https://pypi.org/project/mmdnn/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Linux](https://travis-ci.org/Microsoft/MMdnn.svg?branch=master)](https://travis-ci.org/Microsoft/MMdnn)
+![Linux Compatible](https://img.shields.io/badge/Linux-Compatible-green)
 ![Language](https://img.shields.io/badge/language-c++-brightgreen)
 
 # 写在前面
@@ -10,7 +10,8 @@
 看过市面上很多面经的总结，不论是github上上千star的或者是公众号上的，给我的感觉就是既没有深度也没有广度，仅仅是解释一个概念。如果面试官细问下去，而你仅仅是了解这个概念，很容易就gg了。所以我希望自己总结的这些，当大家看到后都能够发散和思考，找到自己的技术方向和知识框架体系。如有解释不深入的地方，希望每个人都可以自己顺着相关概念查下去，形成自己的一套知识体系。
 时间精力有限有很多知识都没有涉及，希望大家谅解！
 
-**提示tip：** 所有文章都用的是markdown编写，所以为了方便阅读可以直接下载一个typora（一个简洁的mk阅读和编辑器）。如果直接在网页上阅读的话，可以借助大纲功能来看，这样条理脉络都比较清晰
+
+**提示tip：** 所有文章都用的是markdown编写，所以为了方便阅读可以直接下载一个Typora（一个简洁的mk阅读和编辑器）。如果直接在网页上阅读的话，可以借助大纲功能来看，这样条理脉络都比较清晰
 
 <hr>
 
@@ -65,5 +66,5 @@ TCP/IP协议栈是重点，一般面试官会问的比如：说一下TCP为什�
 <hr>
 
 # :bookmark_tabs:刷题
-## [连接在这里](https://github.com/guaguaupup/cpp_interview/blob/main/leetcode%E5%88%B7%E9%A2%98.md)
+## [链接在这里](https://github.com/guaguaupup/cpp_interview/blob/main/leetcode%E5%88%B7%E9%A2%98.md)
 包含leetcode各种类型约300道，leetcode热题100， 牛客前100，剑指offer
